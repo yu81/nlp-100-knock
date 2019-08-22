@@ -1,5 +1,6 @@
 # coding: utf-8
 
+
 from chap1_05 import ngram
 
 if __name__ == "__main__":
@@ -21,6 +22,6 @@ if __name__ == "__main__":
     print(diff)
 
     if "se" in x:
-        print("x contains \"se\"")
+        print('x contains "se"')
     if "se" in y:
-        print("y contains \"se\"")
+        print('y contains "se"')

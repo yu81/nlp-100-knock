@@ -12,4 +12,4 @@ if argc >= 2:
 with open("hightemp.txt", "r") as file:
     lines = file.read().rstrip().split("\n")
     l = len(lines)
-    print("\n".join(lines[l - tail_len:]))
+    print("\n".join(lines[l - tail_len :]))
