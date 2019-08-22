@@ -1,5 +1,6 @@
 # coding: utf-8
 
+
 def pick_odd_chars(s):
     return s[::2]
 

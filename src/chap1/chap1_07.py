@@ -1,5 +1,6 @@
 # coding: utf-8
 
+
 def template_07(x, y, z):
     return "%d時の%sは%.1f" % (x, y, z)
 

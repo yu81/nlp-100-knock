@@ -1,5 +1,6 @@
 # coding: utf-8
 
+
 def cat_chars_by_turn(s1, s2):
     result = ""
     for i in range(len(s1) + len(s2)):

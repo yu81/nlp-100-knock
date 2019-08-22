@@ -1,5 +1,6 @@
 # coding: utf-8
 
+
 def cipher(s):
     code_point = ord(s)
     if ord("a") <= code_point <= ord("z"):
